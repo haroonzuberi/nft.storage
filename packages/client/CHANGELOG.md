@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.4.1](https://github.com/nftstorage/nft.storage/compare/nft.storage-v6.4.0...nft.storage-v6.4.1) (2022-06-28)
+
+
+### Bug Fixes
+
+* link to NFTStorage constructor in API reference docs ([#2005](https://github.com/nftstorage/nft.storage/issues/2005)) ([4eddd01](https://github.com/nftstorage/nft.storage/commit/4eddd01a78e4948d4b1e39ba88f4dee05140f512))
+
 ## [6.4.0](https://github.com/nftstorage/nft.storage/compare/nft.storage-v6.3.0...nft.storage-v6.4.0) (2022-06-28)
 
 

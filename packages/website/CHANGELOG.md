@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.56.0](https://github.com/nftstorage/nft.storage/compare/website-v1.55.0...website-v1.56.0) (2022-06-28)
+
+
+### Features
+
+* update ToS for superhot ([#1948](https://github.com/nftstorage/nft.storage/issues/1948)) ([ccd0c69](https://github.com/nftstorage/nft.storage/commit/ccd0c690af94e88a2a4f390341cf7fc27f276c20))
+
+
+### Bug Fixes
+
+* link to NFTStorage constructor in API reference docs ([#2005](https://github.com/nftstorage/nft.storage/issues/2005)) ([4eddd01](https://github.com/nftstorage/nft.storage/commit/4eddd01a78e4948d4b1e39ba88f4dee05140f512))
+
 ## [1.55.0](https://github.com/nftstorage/nft.storage/compare/website-v1.54.0...website-v1.55.0) (2022-06-23)
 
 
